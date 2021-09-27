@@ -15,7 +15,7 @@
         class="userinfo-avatar"
         style="background-image: url({{avatarUrl}})"
         size="default"
-      ></button>
+      >mwy</button>
       <button
         wx:else
         open-type="getUserInfo" 
